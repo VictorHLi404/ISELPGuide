@@ -8,5 +8,3 @@ The website was designed with Figma, then written in TypeScript with Next.js and
 
 > [!NOTE]
 > An improved version is available at [https://github.com/benceruleanlu/iselp2](https://github.com/benceruleanlu/iselp2).
-> 
-> Acceptance by Lyle will result in the archival of this repository.
